@@ -1,0 +1,6 @@
+name = "likhari-ai-bridge"
+main = "worker.js"
+compatibility_date = "2026-05-11"
+
+[vars]
+# یہاں اپنی API Key نہیں ڈالنی، وہ ڈیش بورڈ میں لگے گی
